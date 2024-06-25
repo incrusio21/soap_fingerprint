@@ -1,0 +1,10 @@
+# Fingerprint SOAP
+SOAP:
+  ip: "192.168.1.210"
+  com_key: "0"
+  
+# ERPNext Restapi
+ERPNext:
+  hostname: "https://localhost"
+  api_key: "123456"
+  api_secret: "abcd"
